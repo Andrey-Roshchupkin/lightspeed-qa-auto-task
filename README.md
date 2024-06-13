@@ -1,0 +1,1 @@
+# lightspeed-qa-auto-task
